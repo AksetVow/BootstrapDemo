@@ -1,0 +1,20 @@
+#Folders
+BootstrapDemo/obj/
+BootstrapDemo/bin/
+
+BootstrapDemo/packages/
+!BootstrapDemo/packages/repositories.config
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
